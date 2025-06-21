@@ -1,1 +1,1 @@
-# SISO-verification-using-SV
+This repository contains a SystemVerilog testbench for verifying a 4-bit Serial-In Serial-Out (SISO) shift register using a modular, object-oriented approach inspired by UVM methodology (without UVM library).
